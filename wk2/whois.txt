@@ -1,0 +1,14 @@
+1.Domain name: WHOIS.COM
+Registry Domain ID: 809888_DOMAIN_COM-VRSN
+
+2.Domain Name: MAIDSTR.COM
+Registry Domain ID: 1938346514_DOMAIN_COM-VRSN
+
+3.Domain Name: GOOGLE.COM
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+
+4.Domain Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+
+5.Domain Name: LINKEDIN.COM
+Registry Domain ID: 91818680_DOMAIN_COM-VRSN

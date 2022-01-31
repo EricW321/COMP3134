@@ -1,0 +1,43 @@
+1.root@comp3134-intro-to-cyber-security:~# nmap 151.101.65.140
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-31 20:20 UTC
+Nmap scan report for 151.101.65.140
+Host is up (0.00080s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.92 seconds
+
+
+
+2.root@comp3134-intro-to-cyber-security:~# nmap -p 33 151.101.65.140
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-31 20:21 UTC
+Nmap scan report for 151.101.65.140
+Host is up (0.0012s latency).
+
+PORT   STATE    SERVICE
+33/tcp filtered dsp
+
+Nmap done: 1 IP address (1 host up) scanned in 0.26 seconds
+
+
+3.root@comp3134-intro-to-cyber-security:~# nmap -p 1-33 151.101.65.140
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-31 20:22 UTC
+Nmap scan report for 151.101.65.140
+Host is up (0.0011s latency).
+All 33 scanned ports on 151.101.65.140 are filtered
+
+Nmap done: 1 IP address (1 host up) scanned in 1.60 seconds
+
+
+4.root@comp3134-intro-to-cyber-security:~# nmap -F 151.101.65.140
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-31 20:22 UTC
+Nmap scan report for 151.101.65.140
+Host is up (0.0011s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.90 seconds

@@ -1,0 +1,19 @@
+1.Domain Name: YOUTUBE.COM
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+IP address	172.217.13.142
+
+2.Domain Name: tiktok.com
+Registry Domain ID: 1046418_DOMAIN_COM-VRSN
+IP address	161.117.98.196
+
+3.Domain Name: github.com
+Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+IP address	140.82.113.4
+
+4.Domain Name: DIGITALOCEAN.COM
+Registry Domain ID: 24753628_DOMAIN_COM-VRSN
+IP address	104.16.182.15
+
+5.Domain Name: reddit.com
+Registry Domain ID: 153584275_DOMAIN_COM-VRSN
+IP address	151.101.65.140
